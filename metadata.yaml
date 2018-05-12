@@ -1,0 +1,26 @@
+_repo: English-Costume_33020
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Calthrop, Dion Clayton
+    birthdate: 1878
+    deathdate: 1937
+    gutenberg_agent_id: '2765'
+    url: http://www.gutenberg.org/2009/agents/2765
+description: I. Early English.--III. Tudor and Stuart.--IV. Georgian.
+gutenberg_issued: '2010-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33020'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clothing and dress -- Great Britain'
+- !lcc 'GT'
+title: English Costume
+url: http://www.gutenberg.org/ebooks/33020
